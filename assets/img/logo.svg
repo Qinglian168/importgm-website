@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 64" width="260" height="64">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a5adb"/><stop offset="1" stop-color="#073f96"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <rect x="4" y="10" width="44" height="44" rx="11" fill="url(#lg)"/>
+    <g fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round">
+      <path d="M15 22h22M15 32h22M15 42h22"/>
+    </g>
+    <circle cx="15" cy="22" r="3" fill="#ff6a13"/>
+    <circle cx="37" cy="32" r="3" fill="#ff6a13"/>
+    <circle cx="26" cy="42" r="3" fill="#ff6a13"/>
+    <text x="58" y="30" font-family="Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#08419c" letter-spacing="1.5">HELPYOU</text>
+    <text x="58" y="50" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="13" font-weight="600" fill="#4a5158" letter-spacing="2">网络配件 · 一站式供应</text>
+  </g>
+</svg>
